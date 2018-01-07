@@ -1,7 +1,9 @@
 # AOKore Cracked
 Free cracked version of AOKore, unlimitted licenses... works like a charm, Updated few hours after release
 
-__Currently working with AOKore 2.3.1.3__
+__Currently working with AOKore 2.6.1.1__
+
+If you find any problems in this release, please contact me :P
 
 ## Feel free to donate
 So I can spend some time cracking this
